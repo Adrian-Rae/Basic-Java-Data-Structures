@@ -1,0 +1,14 @@
+8
+a,b,1
+a,c,1
+a,f,1
+b,e,1
+b,g,1
+c,f,1
+d,e,1
+d,g,1
+e,g,1
+g,h,1
+
+
+Nothing should happen from here

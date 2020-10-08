@@ -1,0 +1,21 @@
+8
+A,B,50
+A,C,50
+A,D,50
+B,D,50
+B,E,70
+B,F,50
+C,D,70
+C,G,70
+C,H,120
+D,F,60
+E,F,70
+F,H,60
+G,H,70
+
+
+
+
+
+
+Nothing should happen from here
